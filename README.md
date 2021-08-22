@@ -1,8 +1,8 @@
-## Your Name
+Paul Cooper
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Formerly in research, communications and healthcare, I have always sought to develop and learn new skills. My research and communications skills were used to drive new business ideas and increase revenue streams for established companies in the UK and across Europe. My research and communicactions job became increasingly data-driven, using VBA and SPSS, which encouraged me to take the leap into coding and software development, enticed by the opportunity of using these skills to assist in developing new business ideas and/or introducing change and innovation within existing businesses. 
 
-## Projects
+## Projects/
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -53,7 +53,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+Makers Academy (July 2021 to November 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
