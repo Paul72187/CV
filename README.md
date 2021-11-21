@@ -26,6 +26,7 @@ Clients:
 - Deutsche Telekom/EE
 - Vodafone
 - Diageo
+- Slovenian Tourist Board
 - HSBC
 - Budget Insurance
 - Royal & SunAlliance
