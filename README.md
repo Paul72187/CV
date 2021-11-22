@@ -92,4 +92,4 @@ Summer Methods Course: Statistical Methods for Social Sciences using SPSS.
 Enhancing my statistical capabilities beyond GCSE level and learning SPSS syntax to further my interest in coding.
 
 **Hobbies**
-Hiking, running, swimming, cooking, reading, current affairs, music
+Hiking, running, swimming, football, tennis, cooking, reading, current affairs, music.
