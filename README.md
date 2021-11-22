@@ -7,8 +7,8 @@ Formerly in research, communications and healthcare, I have always sought to dev
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Final Makers Group Project - Kusari**            | A website that allows users to track performance of their crypto coin wallet and monitor crypto market trends to inform future investment decisions. | React, Python, JavaScript, CSS, PostgreSQL |
+| **Bank Tech Test** | A webapp to allow users to create a bank account, make deposits and withdrawals. | Ruby              |
 
 **Work Experience**
 
