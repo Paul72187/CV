@@ -25,7 +25,7 @@ First point of contact for all hospital consultants, GPs, community nurses, occu
 
 Trained in basic healthcare assistant role - dressing ulcerated feet, dressing and packing pressure sores and flushing/changing catheters. I am always keen to learn and develop new skills and challenge my own approach to doing things, an approach which will stand me in good stead for joining the Tech industry.
 
-Worked closely with behavioural doctors to manage my father's tendency towards violence during the progression of his dementia. This enhanced my problem-solving skills, which will be critical to be a software developer
+Worked closely with behavioural doctors to manage my father's tendency towards violence during the progression of his dementia. This enhanced my problem solving skills, which will be critical to being a successful software developer
 
 Offered peer support to other families dealing with a relative's onset of stroke and/or dementia - providing the relative/human perspective of the aftermath in addition to the clincial perspective. This was very rewarding and helped me to see alternative perspectives to my own situation.
 
