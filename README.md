@@ -34,7 +34,7 @@ Offered peer support to other families dealing with a relative's onset of stroke
 **European Research/Insight/Communications Consultant and Analyst contractor. 
 I started out as a freelancer when I left school and carried on from there!**
 
-Initially the research element of my work was exclusively qualitative (focus groups/depth interviews/hall tests/assisted shopping trips/online forums), but increasingly became data-driven, requiring the use of Excel VBA and SPSS to analyse sales/footfall/online engagement data. This enticed me to learn more about coding and software development, with a view to building computer programs to support/develop/improve this work.
+Initially the research element of my work was exclusively qualitative (focus groups/depth interviews/hall tests/assisted shopping trips/online forums), but increasingly became data-driven, requiring the use of Excel VBA and SPSS to analyse sales/footfall/online engagement data, as well as assessing macroeconomic data across UK and European markets. This enticed me to learn more about coding and software development, with a view to building computer programs to support/develop/improve this work.
 
 My role was highly client-facing, often dealing with very senior executives at client companies in a consultancy role. I became an accomplished public speaker, helping to launch research reports in front of large stakeholder audiences, for example launching a groundbreaking report into barriers to access to finance amongst aspiring ethnic minority business-owners in the House of Commons in 2007 on behalf of the Greater London Authority. Our report was strongly supported by MPs such as Dawn Butler, Diane Abbott and David Lammy.
 
