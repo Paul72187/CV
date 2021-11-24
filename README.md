@@ -3,7 +3,9 @@
 
 **Introduction**
 
-Formerly in research, communications and healthcare, I have always sought to develop and learn new skills. My command of research and communications was used to drive new business ideas and increase revenue streams for established companies in the UK and across Europe. My work became increasingly data-driven, using VBA and SPSS, which encouraged me to take the leap into coding and software development, enticed by the opportunity of using these skills to assist in developing new business ideas and/or introducing change and innovation within existing businesses. 
+Formerly in research, communications and healthcare, I have always sought to develop and learn new skills. My command of research and communications was used to drive new business ideas and increase revenue streams for established companies in the UK and across Europe. My work became increasingly data-driven, using VBA and SPSS, which encouraged me to take the leap into coding and software development, enticed by the opportunity of using these skills to assist in developing new business ideas and/or introducing change and innovation within existing businesses.
+
+I have had a significant career break to care for my father, which has given me time for reflection and a renewed perspective on life. Whilst I enjoyed my previous career in research and communications, the emphasis is very much on reporting on and telling a compelling story of existing client challenges and the broader political, economic and social context in which these challenges sit. Having been introduced to coding through quantitative analysis, I have become increasingly excited by the prospect of creating something innovative from scratch which will potentially give clients an differential advantage over their competitors. The idea of being given a more experimental licence to proactively instigate change and progression within an organisation is particualy appealing. 
 
 ## Projects/
 
@@ -23,7 +25,15 @@ Primary Carer for my father who had multidisciplinary healthcare requirements ar
 - Offered peer support to other families dealing with a relative's onset of stroke and/or dementia - providing the relative/human perspective of the aftermath in addition to the clincial perspective.
 
 **RCA Consultants (June 1997 to May 2013)**
-European Research/Insight/Communications Analyst contractor
+
+European Research/Insight/Communications Consultant and Analyst contractor
+
+Initially the research element of my work was exclusively qualitative (focus groups/depth interviews/hall tests/assisted shopping trips/online forums), but increasingly became data-driven, requiring the use of Excel VBA and SPSS to analyse sales/footfall/online engagement data. This enticed me to learn more about coding and software development, with a view to building computer programs to support/develop/improve this work.
+
+My role was highly client-facing, often dealing with very senior executives at client companies in a consultancy role. I became an accomplished public speaker, helping to launch research reports in front of large stakeholder audiences, for example launching a groundbreaking report into barriers to access to finance amongst aspiring ethnic minority business-owners in the House of Commons in 2007 on behalf of the Greater London Authority. Our report was strongly supported by MPs such as Dawn Butler, Diane Abbott and David Lammy.
+
+I have had three separate foreign postings during my career - three months in Rome; three months in Ljubljana and three months in Bucharest
+
 Clients:
 - McArthurGlen Designer Outlets
 - Unilever
@@ -41,7 +51,7 @@ Clients:
 - Metropolian Police
 - Department of Constitutional Affairs (DCA)
 
-- Initially the research element of my work was exclusively qualitative (focus groups/depth interviews/hall tests/assisted shopping trips/online forums), but increasingly became data-driven, requiring the use of Excel VBA and SPSS to analyse sales/footfall/online engagement data. This enticed me to learn more about coding and software development, with a view to building computer programs to support/develop/improve this work.
+
 
 **Skills**
 
@@ -96,4 +106,12 @@ Summer Methods Course: Statistical Methods for Social Sciences using SPSS.
 Enhancing my statistical capabilities beyond GCSE level and learning SPSS syntax to further my interest in coding.
 
 **Hobbies**
-Hiking, running, swimming, football, tennis, cooking, reading, current affairs, music.
+Hiking - I love being in the great outdoors in any weather. The best way to recharge the batteries and get a sense of persepective of life and maintain good mental health.
+Running - Trying my best to keep fit to sharpen my concentration and improve my sleep patterns. A back injury has restricted my ability to run as fast as I used to!
+Swimming - Represented my school in swimming gala competitions both in backstroke and breast stroke. Continue to swim regularly.
+Football - Represented my school team as a centre-back and vice-captain. I've been an Arsenal fan for many years and tried unsuccessfully to model my defending on Tony Adams!
+Tennis - Avid follower of the ATP/WTA World Tours.
+Cooking - Something I've tried to improve during lockdown - particularly enjoy experimenting with Italian cuisine and Asian flavours.
+Reading - Keen reader of modern history and politics both in the UK and across Europe.
+Current Affairs 
+Music
