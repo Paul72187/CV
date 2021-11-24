@@ -61,47 +61,83 @@ Clients:
 
 **Skills**
 
-1. Meticulous
-2. Research
-3. Empathy
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+1. **Radical Thinker**
 
--STAR
--What was the situation/task? (ST)
+One of the most appealing things about being a software developer is that you are encouraged to explore innovative solutions to individual challenges, rather than rehashing old ideas from other projects.
 
--How was the skill used?
+In research and communications, the analytical and reporting focus was always far too heavily skewed towards brands and reputation, even though these issues did not form the central part of the original research problem. I always encouraged my clients to look at broader geo-political/economic/societal/technological issues to inform their decisions based on customer and stakeholder research feedback, rather than narrowly focusing on how their brand was perceived.
 
--What did you do? (action)
+For example, for a fashion retailer, sales in Italy on high-end fashion brands were dwindling in the wake of the global financial crisis of 2008. This prompted a conversation that Italian consumers' relationship with high-end fashion brands was changing and they were no longer so important, particularly with regard to younger consumers. I pointed out that the change in consumer habits was more likely to have been driven by high rates of economic uncertainty, growing unemployment (in particular youth unemployment) across Italy rather than a cultural reassessment of how Italian consumers look at fashion brands. This informed a targeted discount campaign on certain brands for a limited period to maintain something of a relationship with these consumers during challenging economic times and lower disposable income. This produced growth in sales and lowered rates of consumer churn. 
 
--What was the result?
+Additionally, for a retailer in Vienna, pulling in cross-border customers from Slovakia and Hungary was a vital additional source of footfall and sales revenue. Previously, there had been a rather scattergun approach to delivering communications campaigns in neighbouring markets, which was costly as translation into Hungarian is particularly expensive. Following Slovakia's entry to the Eurozone in 2009, I decided that targeting Slovakian customers over Hungarian customers was the priority, as customers were now more likely to visit the retailer regularly as a fellow-Eurozone member with Austria. No longer were customers periodically put off by fluctuating exchange rates, which was still the case in Hungary. Macroeconomic data from Slovakia also showed greater overall stability in their economy compared to Hungary. Greater promotional focus in Slovakia brought in more customers from this territory than had been achieved before, using data effectively to inform the decision and going beyond simply assessing consumer relationships with retail brands.
 
+2. **Meticulous Researcher**
 
-#### This Skill
+Two of the most important facets to being a good researcher are to do lots of background reading (desk research) into the research problem and thinking about the problem from the point of view of what we do not know and what we need to know in order to go and find out. These are important skills that I have reinforced during my time at Makers in terms of finding the best way to develop a program and its basic functionalities and frequently gravitating to resources such as Stack Overflow, GitHub and W3 Schools to get ideas as to how to develop the appropriate solutions to programming challenges.
 
-- Experience
-- Achievements
-- Evidence (STAR)
+Similarly in my previous career, in a project for News Group Newspapers on what encourages people to switch their regular daily newspaper, the best solution was to approach the project from the point of view of what we do not know. Following extensive discussions and quantitative analysis with regular buyers of a daily newspaper, it was a case of segmenting people by demographic group in order to get a sense of what certain readers prioritised in deciding which title to purchase in terms of informative journalism, foreign news coverage, opinionated columnists, entertainment coverage and sporting coverage. This was really important in terms of deciding who to target to revive interest in one of the daily newspapers, as a general approach would have been very misleading.
 
-#### Another Skill
+3 **Communication**
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+I have launched research reports in front of large audiences and have become comfortable with public speaking. I have been fortunate to undertake some speaker training with former broadcast journalists who helped me develop my confidence, my delivery and when to inject an appropriate level of humour and light-heartedness into proceedings. There is a real exhilirating feeling to delivering a good presentation in a public setting and it also provides an opportunity to interact with a broader audience beyond your core customer base in the Questions and Answers session, which can help to give alternative perspectives on issues to assist in future decision-making.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+4. **Empathy**
+
+Softer skills at work are equally important to the core attributes and functionality of your day-to-day role. It has been striking at Makers how much emphasis has been placed upon mindfulness, meditation and emotional intelligence throughout the course. This has contributed to a much more open culture in which fellow students feel much more comfortable in exchanging ideas and contributing to projects, feeling more confident that they will be given a fair hearing. 
+
+Displaying empathy at work towards colleagues is an essential part of building a team spirit of mutual respect both on a professional and personal level. A former colleague of mine had to have considerable time off work for cancer treatment. The fact that our team had a very open culture where everybody felt comfortable in raising difficult issues and situations was vital in our ability to manage the workload during this period and also in terms of giving our valued colleague the support that they needed during an emotionally very challenging time. This, if anything, helped to strenghten our team spirit and level of mutual respect when my colleague was able to return to work full-time - something that would not have been achieved with a closed culture, where people are made to feel embarrassed for being ill/needing time off/needing support.
 
 ## Education
 
 **Makers Academy (July 2021 to November 2021)**
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+
+**An intensive 12 week bootcamp to introduce students to full-stack software development, primarily using Ruby and JavaScript**
+
+**The course format:**
+
+**Workshops**
+
+Makers coaches would provide introductions to key software development topics, sometimes with the use of Live Coding Workshops, e.g.:
+  - The importance of Test Driven Development (TDD) in RSpec or Jasmine.
+  - Installing gems/modules to allow a program to run
+  - Refactoring and making code as simple and accessible to read as possible
+
+**Pair Programming**
+
+From day one of the bootcamp, great emphasis was placed on collaborating with others to program, giving a simulated experience of how a typical tech firm operates:
+  - I would work with a different pair partner each day, involving having to adapt to different people's styles/preferences for working
+  - Pair programming was a useful exercise in picking up tips from different people as to how to improve my own code
+  - Solid communication skills were required at all times to ensure that we met the specification given to us by the coaches
+  - Problem solving skills were enhanced through researching and discussing various approaches and solutions to our challenges
+
+**Group Projects**
+
+As the course progressed, we shifted more from pair programming to producing full-stack web projects in groups of between 4 and 7 people, introducing us to dividing work up into smaller groups/pairs within the larger group and working on separate tickets/GitHub branches to deliver aspects of projects simultaneously and efficiently:
+  - Communication in larger groups was key to success, with daily stand-ups and retros (as well as early afternoon progress check-ins) to monitor progress, identify blockers/challenges, distribute work between smaller teams. A daily scrum master was assigned to give everybody the chance to lead the group.
+  - Group members were encouraged to volunteer themselves for the elements of the project that they wanted to work on. People frequently opted to work on areas of weakness for self-development and learning. In my case, this involved a lot of CSS, given that I am not the most visual person!
+  - A flexible approach was maintained at all times to allow impromptu team meetings to discuss problem solving to particular challenges, for example when we had to host our first website (Acebook - a Facebook clone) using Heroku. We decided to work on this as one big group so that everybody could be a part of the execution of this part of the project.
+
+**Final Group Project - Kusari**
+
+The Makers course finished with a final group project in a team of six, where we were strongly encouraged to learn new software languages to challenge ourselves and develop wider knowledge before entering the job market. With this in mind, our group decided to build a crypto-coin investment website (Kusari - Japanese word for chain) in React (frontend) and Python (backend), requiring us to also become familiar with Python's testing framework, Pytest.
+
+  - The Kusari project (GitHub link above) was conceived to allow users to perform the dual tasks of monitoring the performance of their individual crypto wallet, whilst also keeping abreast of broader crypto market developments to inform future buying and selling crypto investment decisions.
+  - Problem solving formed a critical part in the success of this project as each group member was new to React and Python at the outset, so much time was devoted to online tutorials in the opening two days just to understand how this project could be executed. The knowledge already built up from Ruby and JavaScript earlier in the course was invaluable to researching what we wanted React and Python to be able to do for us, rather than just conducting a general search on these software languages.
+  - Communication and distribution of work were vital to delivering this project on time, given the research we had to do at the outset. In addition to working in pairs, each group member took on their own tickets during evenings and the weekend to keep the MVP on track and in order to deliver some of the additional features before the deadline, which was successfully achieved.
+
+**Additional Makers Academy Activities**
+
+During the second half of the course, I have acted as a mentor to two Makers students in the cohort two months behind me. This role involves:
+  - providing emotional support to new students, as the opening part of the course can be quite daunting to career changers, given its fast-paced nature.
+  - talking through their projects and coding approaches.
+  - giving advice on group projects as their course progresses and flag up forthcoming areas of the course to prepare for.
+
+Co-hosted my own cohort's weekly retro featuring:
+  - six teams presenting a group project, agreeing a running order and keeping each team to a strict ten minute demo
+  - reflections on the week's learnings in terms of software languages, Test Driven Development and managing working in a team
+
+Represented my cohort at Makers' Staff Away Day giving feedback on our experiences in the course:
+  - participated in a discussion with a broad range of Makers staff on aspects of the course that worked well, could be improved, as well as aspects of managing the entry criteria into the course and helping Makers graduates in the post-course job search.
 
 **London School of Economics (August 2013)**
 
