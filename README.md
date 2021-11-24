@@ -75,7 +75,7 @@ Similarly in my previous career, in a project for News Group Newspapers on what 
 
 3. **Communication**
 
-I have launched research reports in front of large audiences and have become comfortable with public speaking. I have been fortunate to undertake some speaker training with former broadcast journalists who helped me develop my confidence, my delivery and when to inject an appropriate level of humour and light-heartedness into proceedings. There is a real exhilirating feeling to delivering a good presentation in a public setting and it also provides an opportunity to interact with a broader audience beyond your core customer base in the Questions and Answers session, which can help to give alternative perspectives on issues to assist in future decision-making.
+I have launched research reports in front of large audiences and have become comfortable with public speaking. I have been fortunate to undertake some speaker training with former broadcast journalists who helped me develop my confidence, my delivery and  knowing when to inject an appropriate level of humour and light-heartedness into proceedings. There is a real exhilirating feeling to delivering a good presentation in a public setting and it also provides an opportunity to interact with a broader audience beyond your core customer base in the Questions and Answers session, which can help to give alternative perspectives on issues to assist in future decision-making.
 
 4. **Empathy**
 
