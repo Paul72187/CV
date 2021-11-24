@@ -1,5 +1,5 @@
-                                                         ## PAUL COOPER
-                          ## Ex-market researcher/communications consultant/carer, now aspiring software developer
+## PAUL COOPER
+## Ex-market researcher/communications consultant/carer, now aspiring software developer
 
 ## Introduction
 
