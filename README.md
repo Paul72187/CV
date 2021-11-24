@@ -38,8 +38,6 @@ Initially the research element of my work was exclusively qualitative (focus gro
 
 My role was highly client-facing, often dealing with very senior executives at client companies in a consultancy capacity. I became an accomplished public speaker, helping to launch research reports in front of large stakeholder audiences, for example launching a groundbreaking report into barriers to access to finance amongst aspiring ethnic minority business-owners in the House of Commons in 2007 on behalf of the Greater London Authority. Our report was strongly supported by MPs such as Dawn Butler, Diane Abbott and David Lammy.
 
-I have had three separate foreign postings during my career - three months in Rome; three months in Ljubljana and three months in Bucharest
-
 Clients:
 - McArthurGlen Designer Outlets
 - Unilever
