@@ -17,6 +17,7 @@ I have had a significant career break to care for my father, which has given me 
 ## Work Experience
 
 **Domestic Healthcare (June 2013 to April 2021)** 
+
 Primary Carer for my father who had multidisciplinary healthcare requirements around the clock following a stroke, developing dementia and Parkinson's disease
 
 - Primary point of contact for all hospital consultants, GPs, community nurses, occupational therapists, pharmacists, social services, Royal Trinity Hospice. My father's complex healthcare needs were constantly evolving, requiring problem-solving skills and regular adaptation to daily routines, which are vital transferable skills for entering the Tech industry.
