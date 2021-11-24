@@ -108,7 +108,7 @@ From day one of the bootcamp, great emphasis was placed on collaborating with ot
 
 **Group Projects**
 
-As the course progressed, we shifted more from pair programming to producing full-stack web projects in groups of between 4 and 7 people, introducing us to dividing work up into smaller groups/pairs within the larger group and working on separate tickets/GitHub branches to deliver aspects of projects simultaneously and efficiently:
+As the course progressed, we shifted more from pair programming to producing full-stack web projects in groups of between four and seven people, introducing us to dividing work up into smaller groups/pairs within the larger group and working on separate tickets/GitHub branches to deliver aspects of projects simultaneously and efficiently:
   - Communication in larger groups was key to success, with daily stand-ups and retros (as well as early afternoon progress check-ins) to monitor progress, identify blockers/challenges, distribute work between smaller teams. A daily scrum master was assigned to give everybody the chance to lead the group.
   - Group members were encouraged to volunteer themselves for the elements of the project that they wanted to work on. People frequently opted to work on areas of weakness for self-development and learning. In my case, this involved a lot of CSS, given that I am not the most visual person!
   - A flexible approach was maintained at all times to allow impromptu team meetings to discuss problem solving to particular challenges, for example when we had to host our first website (Acebook - a Facebook clone) using Heroku. We decided to work on this as one big group so that everybody could be a part of the execution of this part of the project.
