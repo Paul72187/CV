@@ -55,9 +55,7 @@ Clients:
 - Metropolian Police
 - Department of Constitutional Affairs (DCA)
 
-
-
-**Skills**
+## Skills
 
 1. **Radical Thinker**
 
