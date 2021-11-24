@@ -106,12 +106,21 @@ Summer Methods Course: Statistical Methods for Social Sciences using SPSS.
 Enhancing my statistical capabilities beyond GCSE level and learning SPSS syntax to further my interest in coding.
 
 **Hobbies**
-Hiking - I love being in the great outdoors in any weather. The best way to recharge the batteries and get a sense of persepective of life and maintain good mental health.
-Running - Trying my best to keep fit to sharpen my concentration and improve my sleep patterns. A back injury has restricted my ability to run as fast as I used to!
-Swimming - Represented my school in swimming gala competitions both in backstroke and breast stroke. Continue to swim regularly.
-Football - Represented my school team as a centre-back and vice-captain. I've been an Arsenal fan for many years and tried unsuccessfully to model my defending on Tony Adams!
-Tennis - Avid follower of the ATP/WTA World Tours.
-Cooking - Something I've tried to improve during lockdown - particularly enjoy experimenting with Italian cuisine and Asian flavours.
-Reading - Keen reader of modern history and politics both in the UK and across Europe.
-Current Affairs 
-Music
+
+**Hiking** - I love being in the great outdoors in any weather. The best way to recharge the batteries and get a sense of persepective of life and maintain good mental health.
+
+**Running** - Trying my best to keep fit to sharpen my concentration and improve my sleep patterns. A back injury has restricted my ability to run as fast as I used to!
+
+**Swimming** - Represented my school in swimming gala competitions both in backstroke and breast stroke. Continue to swim regularly.
+
+**Football** - Represented my school team as a centre-back/vice-captain. I've been an Arsenal fan for many years and tried unsuccessfully to model my defending on Tony Adams!
+
+**Tennis** - Avid follower of the ATP/WTA World Tours.
+
+**Cooking** - Something I've tried to improve during lockdown - particularly enjoy experimenting with Italian cuisine and Asian flavours.
+
+**Reading** - Keen reader of modern history and politics both in the UK and across Europe.
+
+**Current Affairs** - Love debate/panel shows such as Question Time, Any Questions, Dateline London, Moral Maze to bring different perspectives on UK/global topical issues.
+
+**Music** - Huge fan of Pete Tong, Trevor Nelson and Gilles Peterson radio shows. I have the most ridiculous collection of cassettes/CD's/Vinyl/MP3s totalling well over 100,000 singles and albums, spanning all genres. I am a particular fan of House, Garage, Techno, R&B, Hip Hop, Latin, African and Jazz music. I'm an amateur DJ, just getting used to my Traktor equipment - so still a lot to learn, but exciting nonetheless!
