@@ -15,6 +15,34 @@ I have had a significant career break to care for my father, which has given me 
 | **Bank Tech Test** | A webapp to allow users to create a bank account, make deposits and withdrawals. | HTML, Ruby              | https://github.com/Paul72187/Bank_Tech_Test
 | **Makers Group Project - Anti-Social Media Inc. (Acebook)** | A website clone of Facebook, allowing users to sign up, post a message, like and comment on a post. | Ruby On Rails HTML, JavaScript, CSS, Heroku | https://github.com/Paul72187/acebook-anti-social-media-inc
 
+## Skills
+
+1. **Radical Thinker**
+
+One of the most appealing things about being a software developer is that you are encouraged to explore innovative solutions to individual challenges, rather than re-hashing old ideas from other projects.
+
+In research and communications, the analytical and reporting focus was always far too heavily skewed towards brands and reputation, even though these issues did not necessarily form the central part of the original research problem. I always encouraged my clients to look at broader geo-political/economic/societal/technological issues to inform their decisions based on customer and stakeholder research feedback, rather than narrowly focusing on how their brand was perceived.
+
+For example, for a fashion retailer, sales in Italy on high-end fashion brands were dwindling in the wake of the global financial crisis of 2008. This prompted a conversation that Italian consumers' relationship with high-end fashion brands was changing and they were no longer so important, particularly with regard to younger consumers. I pointed out that the change in consumer habits was more likely to have been driven by high rates of economic uncertainty, growing unemployment (in particular youth unemployment) across Italy rather than a cultural reassessment of how Italian consumers look at fashion brands. This informed a targeted discount campaign on certain brands for a limited period to maintain something of a relationship with these consumers during challenging economic times and in a period of lower disposable income. This produced growth in sales and lowered rates of consumer churn. 
+
+Additionally, for a retailer in Vienna, pulling in cross-border customers from Slovakia and Hungary was a vital additional source of footfall and sales revenue. Previously, there had been a rather scattergun approach to delivering communications campaigns in neighbouring markets, which was costly as translation into Hungarian is particularly expensive. Following Slovakia's entry to the Eurozone in 2009, I decided that targeting Slovakian customers over Hungarian customers was the priority, as customers were now more likely to visit the retailer regularly as a fellow-Eurozone member with Austria. No longer were customers periodically put off by fluctuating exchange rates, which was still the case in Hungary. Macroeconomic data from Slovakia also showed greater overall stability in their economy compared to Hungary. Greater promotional focus in Slovakia brought in more customers from this territory than had been achieved before, using data effectively to inform the decision and going beyond simply assessing consumer relationships with retail brands.
+
+2. **Meticulous Researcher**
+
+Two of the most important facets to being a good researcher are to do lots of background reading (desk research) into the research problem and thinking about the problem from the point of view of what we do not know and what we need to know in order to go and find out. These are important skills that I have reinforced during my time at Makers in terms of finding the best way to develop a program and its basic functionalities and frequently gravitating to resources such as Stack Overflow, GitHub and W3 Schools to get ideas as to how to develop the appropriate solutions to programming challenges.
+
+Similarly in my previous career, in a project for News Group Newspapers on what encourages people to switch their regular daily newspaper, the best solution was to approach the project from the point of view of what we do not know. Following extensive discussions and quantitative analysis with regular buyers of a daily newspaper, it was a case of segmenting people by demographic group in order to get a sense of what certain readers prioritised in deciding which title to purchase in terms of informative journalism, foreign news coverage, opinionated columnists, entertainment coverage and sporting coverage. This was really important in terms of deciding who to target to revive interest in one of the daily newspapers, as a general cross-demographic approach would have been very misleading.
+
+3. **Communication**
+
+I have launched research reports in front of large audiences and have become comfortable with public speaking. I have been fortunate to undertake some speaker training with former broadcast journalists who helped me develop my confidence, my delivery and  knowing when to inject an appropriate level of humour and light-heartedness into proceedings. There is a real exhilirating feeling to delivering a good presentation in a public setting and it also provides an opportunity to interact with a broader audience beyond your core client base in the Questions and Answers session, which can help to give alternative perspectives on issues to assist in future decision-making.
+
+4. **Empathy**
+
+Softer skills at work are equally important to the core attributes and functionality of your day-to-day role. It has been striking at Makers how much emphasis has been placed upon mindfulness, meditation and emotional intelligence throughout the course. This has contributed to a much more open culture in which fellow students feel much more comfortable in exchanging ideas and contributing to projects, feeling more confident that they will be given a fair hearing. 
+
+Displaying empathy at work towards colleagues is an essential part of building a team spirit of mutual respect both on a professional and personal level. A former colleague of mine had to have considerable time off work for cancer treatment. The fact that our team had a very open culture where everybody felt comfortable in raising difficult issues and situations was vital in our ability to manage the workload during this period and also in terms of giving our valued colleague the support that they needed during an emotionally very challenging time. This, if anything, helped to strenghten our team spirit and level of mutual respect when my colleague was able to return to work full-time - something that would not have been achieved with a closed culture, where people are made to feel embarrassed for being ill/needing time off/needing support.
+
 ## Work Experience
 
 **Domestic Healthcare (June 2013 to April 2021)** 
@@ -54,34 +82,6 @@ Clients:
 - Greater London Authority (GLA)
 - Metropolian Police
 - Department of Constitutional Affairs (DCA)
-
-## Skills
-
-1. **Radical Thinker**
-
-One of the most appealing things about being a software developer is that you are encouraged to explore innovative solutions to individual challenges, rather than re-hashing old ideas from other projects.
-
-In research and communications, the analytical and reporting focus was always far too heavily skewed towards brands and reputation, even though these issues did not necessarily form the central part of the original research problem. I always encouraged my clients to look at broader geo-political/economic/societal/technological issues to inform their decisions based on customer and stakeholder research feedback, rather than narrowly focusing on how their brand was perceived.
-
-For example, for a fashion retailer, sales in Italy on high-end fashion brands were dwindling in the wake of the global financial crisis of 2008. This prompted a conversation that Italian consumers' relationship with high-end fashion brands was changing and they were no longer so important, particularly with regard to younger consumers. I pointed out that the change in consumer habits was more likely to have been driven by high rates of economic uncertainty, growing unemployment (in particular youth unemployment) across Italy rather than a cultural reassessment of how Italian consumers look at fashion brands. This informed a targeted discount campaign on certain brands for a limited period to maintain something of a relationship with these consumers during challenging economic times and in a period of lower disposable income. This produced growth in sales and lowered rates of consumer churn. 
-
-Additionally, for a retailer in Vienna, pulling in cross-border customers from Slovakia and Hungary was a vital additional source of footfall and sales revenue. Previously, there had been a rather scattergun approach to delivering communications campaigns in neighbouring markets, which was costly as translation into Hungarian is particularly expensive. Following Slovakia's entry to the Eurozone in 2009, I decided that targeting Slovakian customers over Hungarian customers was the priority, as customers were now more likely to visit the retailer regularly as a fellow-Eurozone member with Austria. No longer were customers periodically put off by fluctuating exchange rates, which was still the case in Hungary. Macroeconomic data from Slovakia also showed greater overall stability in their economy compared to Hungary. Greater promotional focus in Slovakia brought in more customers from this territory than had been achieved before, using data effectively to inform the decision and going beyond simply assessing consumer relationships with retail brands.
-
-2. **Meticulous Researcher**
-
-Two of the most important facets to being a good researcher are to do lots of background reading (desk research) into the research problem and thinking about the problem from the point of view of what we do not know and what we need to know in order to go and find out. These are important skills that I have reinforced during my time at Makers in terms of finding the best way to develop a program and its basic functionalities and frequently gravitating to resources such as Stack Overflow, GitHub and W3 Schools to get ideas as to how to develop the appropriate solutions to programming challenges.
-
-Similarly in my previous career, in a project for News Group Newspapers on what encourages people to switch their regular daily newspaper, the best solution was to approach the project from the point of view of what we do not know. Following extensive discussions and quantitative analysis with regular buyers of a daily newspaper, it was a case of segmenting people by demographic group in order to get a sense of what certain readers prioritised in deciding which title to purchase in terms of informative journalism, foreign news coverage, opinionated columnists, entertainment coverage and sporting coverage. This was really important in terms of deciding who to target to revive interest in one of the daily newspapers, as a general cross-demographic approach would have been very misleading.
-
-3. **Communication**
-
-I have launched research reports in front of large audiences and have become comfortable with public speaking. I have been fortunate to undertake some speaker training with former broadcast journalists who helped me develop my confidence, my delivery and  knowing when to inject an appropriate level of humour and light-heartedness into proceedings. There is a real exhilirating feeling to delivering a good presentation in a public setting and it also provides an opportunity to interact with a broader audience beyond your core client base in the Questions and Answers session, which can help to give alternative perspectives on issues to assist in future decision-making.
-
-4. **Empathy**
-
-Softer skills at work are equally important to the core attributes and functionality of your day-to-day role. It has been striking at Makers how much emphasis has been placed upon mindfulness, meditation and emotional intelligence throughout the course. This has contributed to a much more open culture in which fellow students feel much more comfortable in exchanging ideas and contributing to projects, feeling more confident that they will be given a fair hearing. 
-
-Displaying empathy at work towards colleagues is an essential part of building a team spirit of mutual respect both on a professional and personal level. A former colleague of mine had to have considerable time off work for cancer treatment. The fact that our team had a very open culture where everybody felt comfortable in raising difficult issues and situations was vital in our ability to manage the workload during this period and also in terms of giving our valued colleague the support that they needed during an emotionally very challenging time. This, if anything, helped to strenghten our team spirit and level of mutual respect when my colleague was able to return to work full-time - something that would not have been achieved with a closed culture, where people are made to feel embarrassed for being ill/needing time off/needing support.
 
 ## Education
 
