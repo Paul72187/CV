@@ -23,7 +23,7 @@ I have had a significant career break to care for my father, which has given me 
 
 First point of contact for all hospital consultants, GPs, community nurses, occupational therapists, pharmacists, social services and Royal Trinity Hospice. My father's complex healthcare needs were constantly evolving, requiring problem-solving skills and regular adaptation to daily routines, which are vital transferable skills for entering the Tech industry.
 
-Trained in basic healthcare assistant role - dressing ulcerated feet, flushing/changing catheters. I am always keen to learn and develop new skills and challenge my own approach to doing things, an approach which will stand me in good stead for joining the Tech industry.
+Trained in basic healthcare assistant role - dressing ulcerated feet, dressing and packing pressure sores and flushing/changing catheters. I am always keen to learn and develop new skills and challenge my own approach to doing things, an approach which will stand me in good stead for joining the Tech industry.
 
 Worked closely with behavioural doctors to manage my father's tendency towards violence during the progression of his dementia. This enhanced my problem-solving skills, which will be critical to be a software developer
 
