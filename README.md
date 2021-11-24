@@ -135,8 +135,6 @@ Co-hosted my own cohort's weekly retro featuring:
 Represented my cohort at Makers' Staff Away Day giving feedback on our experiences in the course:
   - participated in a discussion with a broad range of Makers staff on aspects of the course that worked well, could be improved, as well as aspects of managing the entry criteria into the course and helping Makers graduates in the post-course job search.
 
-## Education
-
 **London School of Economics (August 2013)**
 
 Summer Methods Course: Statistical Methods for Social Sciences using SPSS.
