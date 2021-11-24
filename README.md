@@ -1,4 +1,5 @@
-Paul Cooper
+                                                                        PAUL COOPER
+                                       Ex-market researcher/communications consultant/carer, now aspiring software developer
 
 **Introduction**
 Formerly in research, communications and healthcare, I have always sought to develop and learn new skills. My command of research and communications was used to drive new business ideas and increase revenue streams for established companies in the UK and across Europe. My work became increasingly data-driven, using VBA and SPSS, which encouraged me to take the leap into coding and software development, enticed by the opportunity of using these skills to assist in developing new business ideas and/or introducing change and innovation within existing businesses. 
@@ -12,7 +13,7 @@ Formerly in research, communications and healthcare, I have always sought to dev
 
 **Work Experience**
 
-**Domestic Healthcare (June 2013 to April 2021) ** 
+**Domestic Healthcare (June 2013 to April 2021)** 
 Primary Carer for my father who had multidisciplinary healthcare requirements around the clock following a stroke, developing dementia and Parkinson's disease
 
 - Primary point of contact for all hospital consultants, GPs, community nurses, occupational therapists, pharmacists, social services, Royal Trinity Hospice. My father's complex healthcare needs were constantly evolving, requiring problem-solving skills and regular adaptation to daily routines, which are vital transferable skills for entering the Tech industry.
