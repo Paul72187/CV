@@ -14,7 +14,7 @@ I have had a significant career break to care for my father, which has given me 
 | **Final Makers Group Project - Kusari**            | A website that allows users to track performance of their crypto coin wallet and monitor crypto market trends to inform future investment decisions. | React, Python, JavaScript, CSS, PostgreSQL |
 | **Bank Tech Test** | A webapp to allow users to create a bank account, make deposits and withdrawals. | Ruby              |
 
-**Work Experience**
+## Work Experience
 
 **Domestic Healthcare (June 2013 to April 2021)** 
 Primary Carer for my father who had multidisciplinary healthcare requirements around the clock following a stroke, developing dementia and Parkinson's disease
