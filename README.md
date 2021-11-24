@@ -73,7 +73,7 @@ Two of the most important facets to being a good researcher are to do lots of ba
 
 Similarly in my previous career, in a project for News Group Newspapers on what encourages people to switch their regular daily newspaper, the best solution was to approach the project from the point of view of what we do not know. Following extensive discussions and quantitative analysis with regular buyers of a daily newspaper, it was a case of segmenting people by demographic group in order to get a sense of what certain readers prioritised in deciding which title to purchase in terms of informative journalism, foreign news coverage, opinionated columnists, entertainment coverage and sporting coverage. This was really important in terms of deciding who to target to revive interest in one of the daily newspapers, as a general approach would have been very misleading.
 
-3 **Communication**
+3. **Communication**
 
 I have launched research reports in front of large audiences and have become comfortable with public speaking. I have been fortunate to undertake some speaker training with former broadcast journalists who helped me develop my confidence, my delivery and when to inject an appropriate level of humour and light-heartedness into proceedings. There is a real exhilirating feeling to delivering a good presentation in a public setting and it also provides an opportunity to interact with a broader audience beyond your core customer base in the Questions and Answers session, which can help to give alternative perspectives on issues to assist in future decision-making.
 
