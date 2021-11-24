@@ -103,13 +103,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-**Birkbeck College, University of London (September 2003 to May 2005)**
-MSc European Politics
-Dissertation - assessing post-communist Europe's triple transition (political/economic/societal) - case studies: Poland, Hungary, Slovenia, Romania and Ukraine
-
 **London School of Economics (August 2013)**
 Summer Methods Course: Statistical Methods for Social Sciences using SPSS.
 Enhancing my statistical capabilities beyond GCSE level and learning SPSS syntax to further my interest in coding.
+
+**Birkbeck College, University of London (September 2003 to May 2005)**
+MSc European Politics
+Dissertation - assessing post-communist Europe's triple transition (political/economic/societal) - case studies: Poland, Hungary, Slovenia, Romania and Ukraine
 
 ## Hobbies
 
