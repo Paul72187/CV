@@ -1,13 +1,13 @@
                                                          PAUL COOPER
                           Ex-market researcher/communications consultant/carer, now aspiring software developer
 
-## Introduction/
+## Introduction
 
 Formerly in research, communications and healthcare, I have always sought to develop and learn new skills. My command of research and communications was used to drive new business ideas and increase revenue streams for established companies in the UK and across Europe. My work became increasingly data-driven, using VBA and SPSS, which encouraged me to take the leap into coding and software development, enticed by the opportunity of using these skills to assist in developing new business ideas and/or introducing change and innovation within existing businesses.
 
 I have had a significant career break to care for my father, which has given me time for reflection and a renewed perspective on life. Whilst I enjoyed my previous career in research and communications, the emphasis is very much on reporting on and telling a compelling story of existing client challenges and the broader political, economic and social context in which these challenges sit. Having been introduced to coding through quantitative analysis, I have become increasingly excited by the prospect of creating something innovative from scratch which will potentially give clients an differential advantage over their competitors. The idea of being given a more experimental licence to proactively instigate change and progression within an organisation is particualy appealing. 
 
-## Projects/
+## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -101,11 +101,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 MSc European Politics
 Dissertation - assessing post-communist Europe's triple transition (political/economic/societal) - case studies: Poland, Hungary, Slovenia, Romania and Ukraine
 
-**London School of Economics (August 2013)****
+**London School of Economics (August 2013)**
 Summer Methods Course: Statistical Methods for Social Sciences using SPSS.
 Enhancing my statistical capabilities beyond GCSE level and learning SPSS syntax to further my interest in coding.
 
-**Hobbies**
+## Hobbies
 
 **Hiking** - I love being in the great outdoors in any weather. The best way to recharge the batteries and get a sense of persepective of life and maintain good mental health.
 
@@ -123,4 +123,4 @@ Enhancing my statistical capabilities beyond GCSE level and learning SPSS syntax
 
 **Current Affairs** - Love debate/panel shows such as Question Time, Any Questions, Dateline London, Moral Maze to bring different perspectives on UK/global topical issues.
 
-**Music** - Huge fan of Pete Tong, Trevor Nelson and Gilles Peterson radio shows. I have the most ridiculous collection of cassettes/CD's/Vinyl/MP3s totalling well over 100,000 singles and albums, spanning all genres. I am a particular fan of House, Garage, Techno, R&B, Hip Hop, Latin, African and Jazz music. I'm an amateur DJ, just getting used to my Traktor equipment - so still a lot to learn, but exciting nonetheless!
+**Music** - Huge fan of Pete Tong, Trevor Nelson and Gilles Peterson radio shows. I have the most ridiculous collection of cassettes/CD's/Vinyl/MP3s totalling well over 100,000 singles and albums, spanning all genres. I am a particular fan of House, Garage, Techno, R&B, Hip Hop, Latin, African and Jazz music. Favourite artists: Erykah Badu, Jill Scott, Anderson .Paak, Lauryn Hill, Alicia Keys, Robert Glasper, Ronny Jordan, Shaun Escoffery, Jamiroquai, Frankie Knuckles, DisclosureI'm an amateur DJ, just getting used to my Traktor equipment - so still a lot to learn, but exciting nonetheless!
