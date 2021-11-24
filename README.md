@@ -59,7 +59,7 @@ Clients:
 
 1. **Radical Thinker**
 
-One of the most appealing things about being a software developer is that you are encouraged to explore innovative solutions to individual challenges, rather than rehashing old ideas from other projects.
+One of the most appealing things about being a software developer is that you are encouraged to explore innovative solutions to individual challenges, rather than re-hashing old ideas from other projects.
 
 In research and communications, the analytical and reporting focus was always far too heavily skewed towards brands and reputation, even though these issues did not form the central part of the original research problem. I always encouraged my clients to look at broader geo-political/economic/societal/technological issues to inform their decisions based on customer and stakeholder research feedback, rather than narrowly focusing on how their brand was perceived.
 
