@@ -18,16 +18,20 @@ I have had a significant career break to care for my father, which has given me 
 
 **Domestic Healthcare (June 2013 to April 2021)** 
 
-Primary Carer for my father who had multidisciplinary healthcare requirements around the clock following a stroke, developing dementia and Parkinson's disease
+**Primary Carer for my father who had multidisciplinary healthcare requirements around the clock following a stroke, developing dementia and Parkinson's disease**
 
-- Primary point of contact for all hospital consultants, GPs, community nurses, occupational therapists, pharmacists, social services, Royal Trinity Hospice. My father's complex healthcare needs were constantly evolving, requiring problem-solving skills and regular adaptation to daily routines, which are vital transferable skills for entering the Tech industry.
-- Trained in basic healthcare assistant role - dressing ulcerated feet, flushing/changing catheters. I am always keen to learn and develop new skills and challenge my own approach to doing things, an approach which will stand me in good stead for joining the Tech industry.
-- Worked closely with behavioural doctors to manage my father's tendency towards violence during the progression of his dementia.
-- Offered peer support to other families dealing with a relative's onset of stroke and/or dementia - providing the relative/human perspective of the aftermath in addition to the clincial perspective.
+First point of contact for all hospital consultants, GPs, community nurses, occupational therapists, pharmacists, social services, Royal Trinity Hospice. My father's complex healthcare needs were constantly evolving, requiring problem-solving skills and regular adaptation to daily routines, which are vital transferable skills for entering the Tech industry.
+
+Trained in basic healthcare assistant role - dressing ulcerated feet, flushing/changing catheters. I am always keen to learn and develop new skills and challenge my own approach to doing things, an approach which will stand me in good stead for joining the Tech industry.
+
+Worked closely with behavioural doctors to manage my father's tendency towards violence during the progression of his dementia. This enhanced my problem-solving skills, which will be critical to be a software developer
+
+Offered peer support to other families dealing with a relative's onset of stroke and/or dementia - providing the relative/human perspective of the aftermath in addition to the clincial perspective. This was very rewarding and helped me to see alternative perspectives to my own situation.
 
 **RCA Consultants (June 1997 to May 2013)**
 
-European Research/Insight/Communications Consultant and Analyst contractor
+**European Research/Insight/Communications Consultant and Analyst contractor. 
+I started out as a freelancer when I left school and carried on from there!**
 
 Initially the research element of my work was exclusively qualitative (focus groups/depth interviews/hall tests/assisted shopping trips/online forums), but increasingly became data-driven, requiring the use of Excel VBA and SPSS to analyse sales/footfall/online engagement data. This enticed me to learn more about coding and software development, with a view to building computer programs to support/develop/improve this work.
 
