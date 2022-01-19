@@ -1,5 +1,20 @@
-## PAUL COOPER
-## Ex-market researcher/communications consultant/carer, now aspiring software developer
+<h1 align="center">Hello, I'm Paul, welcome to my GitHub!</h1>
+
+<h2 align="center">Previous incarnations: Market researcher/communications consultant/carer</h2>
+
+<h2 align="center">Now: Aspiring software developer</h2>
+
+### Contents
+**[Introduction](#introduction)**<br>
+**[Projects](#projects)**<br>
+**[Skills](#skills)**<br>
+**[Work Experience](#work-experience)**<br>
+**[Makers Academy](#makers-academy)**<br>
+**[Education and Training](#education-and-training)**<br>
+**[Hobbies](#hobbies)**<br>
+
+
+
 
 ## Introduction
 
@@ -83,7 +98,7 @@ Clients:
 - Metropolian Police
 - Department of Constitutional Affairs (DCA)
 
-## Education
+## Makers Academy
 
 **Makers Academy (July 2021 to November 2021)**
 
@@ -134,6 +149,8 @@ Co-hosted my own cohort's weekly retro featuring:
 
 Represented my cohort at Makers' Staff Away Day giving feedback on our experiences in the course:
   - participated in a discussion with a broad range of Makers staff on aspects of the course that worked well, could be improved, as well as aspects of managing the entry criteria into the course and helping Makers graduates in the post-course job search.
+ 
+## Education and Training
 
 **London School of Economics (August 2013)**
 
@@ -165,4 +182,4 @@ Dissertation - assessing post-communist Europe's triple transition (political/ec
 
 **Current Affairs** - Love debate/panel shows such as Question Time, Any Questions, Dateline London, Moral Maze to bring different perspectives on UK/global topical issues.
 
-**Music** - Huge fan of Pete Tong, Trevor Nelson and Gilles Peterson radio shows. I have the most ridiculous collection of cassettes/CD's/Vinyl/MP3s totalling well over 100,000 singles and albums, spanning all genres. I am a particular fan of House, Garage, Techno, R&B, Hip Hop, Latin, African and Jazz music. Favourite artists: Erykah Badu, Jill Scott, Anderson .Paak, Lauryn Hill, Alicia Keys, Robert Glasper, Ronny Jordan, Shaun Escoffery, Jamiroquai, Frankie Knuckles, Disclosure. I'm an amateur DJ, just getting used to my Traktor equipment - so still a lot to learn, but exciting nonetheless!
+**Music** - I have the most ridiculous collection of cassettes/CDs/Vinyl/MP3s spanning all genres.
