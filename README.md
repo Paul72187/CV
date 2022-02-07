@@ -136,17 +136,17 @@ The Makers course finished with a final group project in a team of six, where we
   - Communication and distribution of work were vital to delivering this project on time, given the research we had to do at the outset. In addition to working in pairs, each group member took on their own tickets during evenings and the weekend to keep the MVP on track and in order to deliver some of the additional features before the deadline, which was successfully achieved.
 
 **Additional Makers Academy Activities**
-•	Mentoring 2 students (on the cohort two months behind me)
-•	Co-hosted a weekly retro featuring our cohort's first group projects
-•	Represented my cohort at Makers' Staff Away Day giving feedback on our experience of the course/suggestions for changes.
+- Mentoring 2 students (on the cohort two months behind me)
+- Co-hosted a weekly retro featuring our cohort's first group projects
+- Represented my cohort at Makers' Staff Away Day giving feedback on our experience of the course/suggestions for changes.
  
 ## Education and Training
 
-**London School of Economics (August 2013)**
-*Summer Methods Course: Statistical Methods for Social Sciences using SPSS.*
+**London School of Economics (August 2013)**\
+*Summer Methods Course: Statistical Methods for Social Sciences using SPSS.*\
 *Enhancing my statistical capabilities beyond GCSE level and learning SPSS syntax to further my interest in coding.*
 
-**Birkbeck College, University of London (September 2003 to May 2005)**
+**Birkbeck College, University of London (September 2003 to May 2005)**\
 *MSc European Politics*
 
 ## Hobbies
