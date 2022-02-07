@@ -136,18 +136,9 @@ The Makers course finished with a final group project in a team of six, where we
   - Communication and distribution of work were vital to delivering this project on time, given the research we had to do at the outset. In addition to working in pairs, each group member took on their own tickets during evenings and the weekend to keep the MVP on track and in order to deliver some of the additional features before the deadline, which was successfully achieved.
 
 **Additional Makers Academy Activities**
-
-During the second half of the course, I have acted as a mentor to two Makers students in the cohort two months behind me. This role involves:
-  - providing emotional support to new students, as the opening part of the course can be quite daunting to career changers, given its fast-paced nature.
-  - talking through their projects and coding approaches.
-  - giving advice on group projects as their course progresses and flag up forthcoming areas of the course to prepare for.
-
-Co-hosted my own cohort's weekly retro featuring:
-  - six teams presenting a group project, agreeing a running order and keeping each team to a strict ten minute demo
-  - reflections on the week's learnings in terms of software languages, Test Driven Development and managing working in a team
-
-Represented my cohort at Makers' Staff Away Day giving feedback on our experiences in the course:
-  - participated in a discussion with a broad range of Makers staff on aspects of the course that worked well, could be improved, as well as aspects of managing the entry criteria into the course and helping Makers graduates in the post-course job search.
+•	Mentoring 2 students (on the cohort two months behind me)
+•	Co-hosted a weekly retro featuring our cohort's first group projects
+•	Represented my cohort at Makers' Staff Away Day giving feedback on our experience of the course/suggestions for changes.
  
 ## Education and Training
 
