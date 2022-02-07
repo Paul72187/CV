@@ -165,10 +165,4 @@ MSc European Politics
 Dissertation - assessing post-communist Europe's triple transition (political/economic/societal) - case studies: Poland, Hungary, Slovenia, Romania and Ukraine
 
 ## Hobbies
-**Running** 
-**Swimming** 
-**Football**
-**Tennis** 
-**Reading**
-**Current Affairs** 
-**Music**
+Running, Swimming, Football, Tennis, Reading, Current Affairs, Music
