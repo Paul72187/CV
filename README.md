@@ -165,21 +165,10 @@ MSc European Politics
 Dissertation - assessing post-communist Europe's triple transition (political/economic/societal) - case studies: Poland, Hungary, Slovenia, Romania and Ukraine
 
 ## Hobbies
-
-**Hiking** - I love being in the great outdoors in any weather. The best way to recharge the batteries and get a sense of persepective of life and maintain good mental health.
-
-**Running** - Trying my best to keep fit to sharpen my concentration and improve my sleep patterns. A back injury has restricted my ability to run as fast as I used to!
-
-**Swimming** - Represented my school in swimming gala competitions both in backstroke and breast stroke. Continue to swim regularly.
-
-**Football** - Represented my school team as a centre-back/vice-captain. I've been an Arsenal fan for many years and tried unsuccessfully to model my defending on Tony Adams!
-
-**Tennis** - Avid follower of the ATP/WTA World Tours.
-
-**Cooking** - Something I've tried to improve during lockdown - particularly enjoy experimenting with Italian cuisine and Asian flavours.
-
-**Reading** - Keen reader of modern history and politics both in the UK and across Europe.
-
-**Current Affairs** - Love debate/panel shows such as Question Time, Any Questions, Dateline London, Moral Maze to bring different perspectives on UK/global topical issues.
-
-**Music** - I have the most ridiculous collection of cassettes/CDs/Vinyl/MP3s spanning all genres.
+**Running** 
+**Swimming** 
+**Football**
+**Tennis** 
+**Reading**
+**Current Affairs** 
+**Music**
