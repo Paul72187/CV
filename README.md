@@ -74,8 +74,7 @@ Offered peer support to other families dealing with a relative's onset of stroke
 
 **RCA Consultants (June 1997 to May 2013)**
 
-**European Research/Insight/Communications Consultant and Analyst contractor. 
-I started out as a freelancer when I left school and carried on from there!**
+**Freelance European Research/Insight/Communications Consultant and Analyst contractor**
 
 Initially the research element of my work was exclusively qualitative (focus groups/depth interviews/hall tests/assisted shopping trips/online forums), but increasingly became data-driven, requiring the use of Excel VBA and SPSS to analyse sales/footfall/online engagement data, as well as assessing macroeconomic data across UK and European markets. This enticed me to learn more about coding and software development, with a view to building computer programs to support/develop/improve this work.
 
