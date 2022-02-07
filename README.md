@@ -159,10 +159,7 @@ Summer Methods Course: Statistical Methods for Social Sciences using SPSS.
 Enhancing my statistical capabilities beyond GCSE level and learning SPSS syntax to further my interest in coding.
 
 **Birkbeck College, University of London (September 2003 to May 2005)**
-
 MSc European Politics
-
-Dissertation - assessing post-communist Europe's triple transition (political/economic/societal) - case studies: Poland, Hungary, Slovenia, Romania and Ukraine
 
 ## Hobbies
 Running, Swimming, Football, Tennis, Reading, Current Affairs, Music
