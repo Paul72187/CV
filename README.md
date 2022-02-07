@@ -133,4 +133,4 @@ The Makers course finished with a final group project in which we built a crypto
 *MSc European Politics*
 
 ## Hobbies
-Running, Swimming, Football, Tennis, Reading, Current Affairs, Music
+Running, Swimming, Football, Tennis, Reading, Current Affairs, Music.
