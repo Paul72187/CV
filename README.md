@@ -101,31 +101,15 @@ Clients:
 
 **Makers Academy (July 2021 to November 2021)**
 
-**An intensive 12 week bootcamp to introduce students to full-stack software development, primarily using Ruby and JavaScript**
+**An intensive 12 week bootcamp to introduce students to full-stack software development, primarily using Ruby and JavaScript.**\
+The course was delivered using:
+  - tutor-led workshops
+  - pair programming
+  - group projects
 
-**The course format:**
-
-**Workshops**
-
-Makers coaches would provide introductions to key software development topics, sometimes with the use of Live Coding Workshops, e.g.:
-  - The importance of Test Driven Development (TDD) in RSpec or Jasmine.
-  - Installing gems/modules to allow a program to run
-  - Refactoring and making code as simple and accessible to read as possible
-
-**Pair Programming**
-
-From day one of the bootcamp, great emphasis was placed on collaborating with others to program, giving a simulated experience of how a typical tech firm operates:
-  - I would work with a different pair partner each day, involving having to adapt to different people's styles/preferences for working
-  - Pair programming was a useful exercise in picking up tips from different people as to how to improve my own code
-  - Solid communication skills were required at all times to ensure that we met the specification given to us by the coaches
-  - Problem solving skills were enhanced through researching and discussing various approaches and solutions to our challenges
-
-**Group Projects**
-
-As the course progressed, we shifted more from pair programming to producing full-stack web projects in groups of between four and seven people, introducing us to dividing work up into smaller groups/pairs within the larger group and working on separate tickets/GitHub branches to deliver aspects of projects simultaneously and efficiently:
-  - Communication in larger groups was key to success, with daily stand-ups and retros (as well as early afternoon progress check-ins) to monitor progress, identify blockers/challenges, distribute work between smaller teams. A daily scrum master was assigned to give everybody the chance to lead the group.
-  - Group members were encouraged to volunteer themselves for the elements of the project that they wanted to work on. People frequently opted to work on areas of weakness for self-development and learning. In my case, this involved a lot of CSS, given that I am not the most visual person!
-  - A flexible approach was maintained at all times to allow impromptu team meetings to discuss problem solving to particular challenges, for example when we had to host our first website (Acebook - a Facebook clone) using Heroku. We decided to work on this as one big group so that everybody could be a part of the execution of this part of the project.
+The course placed emphasis on best coding practice techniques such as:
+  - Test Driven Development (TDD) using RSpec/Jasmine
+  - Single-responsibility principle (SRP)
 
 **Final Group Project - Kusari**
 
