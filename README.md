@@ -113,11 +113,10 @@ The course placed emphasis on best coding practice techniques such as:
 
 **Final Group Project - Kusari**
 
-The Makers course finished with a final group project in a team of six, where we were strongly encouraged to learn new software languages to challenge ourselves and develop wider knowledge before entering the job market. With this in mind, our group decided to build a crypto-coin investment website (Kusari - Japanese word for chain) in React (frontend) and Python (backend), requiring us to also become familiar with Python's testing framework, Pytest.
-
-  - The Kusari project (GitHub link above) was conceived to allow users to perform the dual tasks of monitoring the performance of their individual crypto wallet, whilst also keeping abreast of broader crypto market developments to inform future buying and selling crypto investment decisions.
-  - Problem solving formed a critical part in the success of this project as each group member was new to React and Python at the outset, so much time was devoted to online tutorials in the opening two days just to understand how this project could be executed. The knowledge already built up from Ruby and JavaScript earlier in the course was invaluable to researching what we wanted React and Python to be able to do for us, rather than just conducting a general search on these software languages.
-  - Communication and distribution of work were vital to delivering this project on time, given the research we had to do at the outset. In addition to working in pairs, each group member took on their own tickets during evenings and the weekend to keep the MVP on track and in order to deliver some of the additional features before the deadline, which was successfully achieved.
+The Makers course finished with a final group project in which we built a crypto-investment tracker website (Kusari - Japanese word for chain). Delivered in:
+  - a team of six
+  - React.js and SCSS (frontend); Django and Python (backend); PostgreSQL (database to store user credentials) - all languages learned during the project
+  - Pytest (Python testing framework)
 
 **Additional Makers Academy Activities**
 - Mentoring 2 students (on the cohort two months behind me)
