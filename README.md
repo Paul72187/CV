@@ -143,11 +143,11 @@ The Makers course finished with a final group project in a team of six, where we
 ## Education and Training
 
 **London School of Economics (August 2013)**
-**Summer Methods Course: Statistical Methods for Social Sciences using SPSS.**
-**Enhancing my statistical capabilities beyond GCSE level and learning SPSS syntax to further my interest in coding.**
+*Summer Methods Course: Statistical Methods for Social Sciences using SPSS.*
+*Enhancing my statistical capabilities beyond GCSE level and learning SPSS syntax to further my interest in coding.*
 
 **Birkbeck College, University of London (September 2003 to May 2005)**
-**MSc European Politics**
+*MSc European Politics*
 
 ## Hobbies
 Running, Swimming, Football, Tennis, Reading, Current Affairs, Music
