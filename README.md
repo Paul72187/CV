@@ -97,7 +97,7 @@ Clients:
 - Geest Worldwide Fruit
 - Newsgroup Newspapers
 - Greater London Authority (GLA)
-- Metropolian Police
+- Metropolitan Police
 - Department of Constitutional Affairs (DCA)
 
 ## Makers Academy
