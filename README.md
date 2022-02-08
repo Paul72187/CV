@@ -73,7 +73,7 @@ Trained in basic healthcare assistant role - dressing ulcerated feet, dressing a
 
 Worked closely with behavioural doctors to manage my father's tendency towards violence during the progression of his dementia. This enhanced my problem solving skills, which will be critical to being a successful software developer
 
-Offered peer support to other families dealing with a relative's onset of stroke and/or dementia - providing a relative's perspective of the aftermath in addition to the clincial perspective provided by doctors. This was very rewarding and helped me to see alternative perspectives to my own situation.
+Offered peer support to other families dealing with a relative's onset of stroke and/or dementia - providing a relative's perspective of the aftermath in addition to the clinical perspective provided by doctors. This was very rewarding and helped me to see alternative perspectives to my own situation.
 
 **RCA Consultants (June 1997 to May 2013)**
 
