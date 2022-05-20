@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Paul, welcome to my GitHub!</h1>
+<h1 align="center">Hello, I'm Paul, welcome to my GitHub!!</h1>
 
 <h2 align="center">Previous incarnations: Market researcher/communications consultant/carer</h2>
 
