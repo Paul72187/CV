@@ -28,8 +28,7 @@ I have had a significant career break to care for my father, which has given me 
 | Name                         | Description       | Tech/tools        | GitHub Link      |
 | ---------------------------- | ----------------- | ----------------- |------------------|
 | **Quizzical** | A website that allows users to put their general knowledge to the test | JavaScript, CSS, HTML | https://github.com/Paul72187/Quizzical
-| **Poll** | A website that allows users to vote once in a multiple choice poll | Python, Django |
-https://github.com/Paul72187/Poll
+| **Poll** | A website that allows users to vote once in a multiple choice poll | Python, Django | https://github.com/Paul72187/Poll
 | **Calculator** | A basic calculator app that allows users to carry out simple arithmetic functions | JavaScript, CSS, HTML | https://github.com/Paul72187/Calculator
 | **Music Player** | An app that allows users to play their favourite MP3s as well as featuring artwork | JavaScript, CSS, HTML | https://github.com/Paul72187/MusicPlayer
 | **Currency Converter** | An app that allows users to convert one currecny into any from a list of 32 other currencies using the Franfurter API for the latest FX data | JavaScript, Frankfurter API, CSS, HTML | https://github.com/Paul72187/CurrencyConverter
