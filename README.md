@@ -6,7 +6,7 @@
 
 ### Contents
 **[Introduction](#introduction)**<br>
-**[DeployedProject](#deployed-project)**<br>
+**[Deployed Project](#deployed-project)**<br>
 **[Projects](#projects)**<br>
 **[Skills](#skills)**<br>
 **[Work Experience](#work-experience)**<br>
